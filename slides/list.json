@@ -1,0 +1,157 @@
+[
+    [
+        "index.md",
+        {
+            "filename": "apuliasoft.md",
+            "attr": {
+                "data-background": "#0088ff"
+            }
+        },
+        {
+            "filename": "club-degli-sviluppatori.md",
+            "attr": {
+                "data-background": "#000066"
+            }
+        }
+    ],
+    [
+        "spa.md",
+        {
+            "filename": "no.md",
+            "attr": {
+                "data-background": "img/nasdaq.jpg"
+            }
+        },
+        {
+            "filename": "no.md",
+            "attr": {
+                "data-background": "img/spa-couple.jpg"
+            }
+        }
+    ],
+    [
+        "single-page-application.md",
+        "spa-definizione.md",
+        {
+            "attr": {
+                "data-background": "img/drive.png"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "img/wunderlist.png"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "img/trello.png"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "img/virgin.png"
+            }
+        }
+    ],
+    [
+        "spa-caratteristiche.md",
+        "spa-architettura.md",
+        "spa-chunking.md",
+        "spa-templating.md",
+        "spa-routing.md",
+        "spa-realtime-comunication.md",
+        "spa-storage.md",
+        "spa-testing.md"
+    ],
+    "spa-pros-e-cons.md",
+    [
+        {
+            "attr": {
+                "data-background": "img/html+css.png"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "img/js-dom-manipulation.png"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "img/js-libraries.png"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "img/js-frameworks.png"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "img/js-tools.png"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "img/js-testing.png"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "img/js-metalanguages.png"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "img/css-frameworks.png"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "img/css-metalanguages.png"
+            }
+        }
+    ],
+    [
+        "angularjs-1.md",
+        "angularjs-2.md",
+        "angularjs-3.md"
+    ],
+    [
+        "once-upon-a-time.md",
+        "google-feedback.md",
+        "frustrazione.md",
+        "misko-hevery.md",
+        "misko-proposal.md",
+        "misko-fails.md"
+    ],
+    [
+        "angularjs-description.md",
+        "angularjs-concempts.md"
+    ],
+    [
+        "angularjs-templating.md",
+        "angularjs-templating-example.md",
+        "angularjs-templating-pros-e-cons.md"
+    ],
+    [
+        "angularjs-mvvm.md",
+        "angularjs-mvvm-schema.md",
+        "angularjs-mvvm-pros-e-cons.md"
+    ],
+    [
+        "angularjs-data-binding-problem.md",
+        "angularjs-data-binding-solution.md",
+        "angularjs-data-binding-pros-e-cons.md"
+    ],
+    [
+        "angularjs-di.md",
+        "angularjs-di-pros-e-cons.md"
+    ],
+    "demo-time.md",
+    [
+        "conclusioni.md",
+        "conclusioni-angular.md"
+    ],
+    "ringraziamenti.md",
+    "riferimenti.md"
+]
