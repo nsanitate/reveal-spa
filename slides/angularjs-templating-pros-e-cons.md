@@ -3,7 +3,6 @@
 * **Pros**
   * Alleggerimento del server <!-- .element: class="fragment" data-fragment-index="1" -->
   * Alleggerimento della trasmissione <!-- .element: class="fragment" data-fragment-index="1" -->
-  * Disaccoppiamento <!-- .element: class="fragment" data-fragment-index="1" -->
   * Riuso <!-- .element: class="fragment" data-fragment-index="1" -->
 
 * **Cons**

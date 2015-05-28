@@ -7,5 +7,5 @@
 
 * **Cons**
   * SEO <!-- .element: class="fragment" data-fragment-index="2" -->
-  * Alleggerimento del server <!-- .element: class="fragment" data-fragment-index="2" -->
+  * Appesantimento del client <!-- .element: class="fragment" data-fragment-index="2" -->
   * JavaScript <!-- .element: class="fragment" data-fragment-index="2" -->
