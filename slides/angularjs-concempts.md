@@ -1,7 +1,6 @@
 ##  Concetti
 
-* Client-side template
 * Model-View-ViewModel
 * Data binding
+* Client-side template
 * Dependency injection
-* Direttive

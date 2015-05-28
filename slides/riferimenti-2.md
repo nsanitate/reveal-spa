@@ -1,0 +1,16 @@
+##  Riferimenti
+
+* [underscorejs.org](//underscorejs.org)
+* [momentjs.com](//momentjs.com)
+* [d3js.org](//d3js.org)
+* [documentup.com/kriskowal/q](//documentup.com/kriskowal/q)
+* [durandaljs.com](//durandaljs.com)
+* [handlebarsjs.com](//handlebarsjs.com)
+* [polymer-project.org](//polymer-project.org)
+* [emberjs.com](//emberjs.com)
+* [yeoman.io](//yeoman.io)
+* [bower.io](//bower.io)
+* [gruntjs.com](//gruntjs.com)
+* [gulpjs.com](//gulpjs.com)
+* [karma-runner.github.io](//karma-runner.github.io)
+* [mochajs.org](//mochajs.org)

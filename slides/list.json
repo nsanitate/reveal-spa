@@ -129,11 +129,6 @@
         "angularjs-concempts.md"
     ],
     [
-        "angularjs-templating.md",
-        "angularjs-templating-example.md",
-        "angularjs-templating-pros-e-cons.md"
-    ],
-    [
         "angularjs-mvvm.md",
         "angularjs-mvvm-schema.md",
         "angularjs-mvvm-pros-e-cons.md"
@@ -142,6 +137,11 @@
         "angularjs-data-binding-problem.md",
         "angularjs-data-binding-solution.md",
         "angularjs-data-binding-pros-e-cons.md"
+    ],
+    [
+        "angularjs-templating.md",
+        "angularjs-templating-example.md",
+        "angularjs-templating-pros-e-cons.md"
     ],
     [
         "angularjs-di.md",
@@ -153,5 +153,9 @@
         "conclusioni-angular.md"
     ],
     "ringraziamenti.md",
-    "riferimenti.md"
+    [
+        "riferimenti-1.md",
+        "riferimenti-2.md",
+        "riferimenti-3.md"
+    ]
 ]

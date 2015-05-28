@@ -1,0 +1,15 @@
+##  Riferimenti
+
+* [angularjs.org](//angularjs.org)
+* [angular.io](//angular.io)
+* [egghead.io](//egghead.io)
+* [addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers](//addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers)
+* [martinfowler.com/articles/injection.html](//martinfowler.com/articles/injection.html)
+* [w3.org/TR/html5](//w3.org/TR/html5)
+* [w3.org/TR/css3-*](//w3.org/TR/css3-ui)
+* [developer.mozilla.org](//developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_6_support_in_Mozilla)
+* [jquery.com](//jquery.com)
+* [backbonejs.org](//backbonejs.org)
+* [knockoutjs.com](//knockoutjs.com)
+* [facebook.github.io/react/](//facebook.github.io/react)
+* [dojotoolkit.org](//dojotoolkit.org)
